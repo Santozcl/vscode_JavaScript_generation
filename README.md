@@ -1,0 +1,2 @@
+# vscode_JavaScript_generation
+JavaScript
